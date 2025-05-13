@@ -8,15 +8,15 @@
 
 ---
 
-##Objetivo
+## Objetivo
 
 Desenvolver uma API pura (apenas no terminal) usando Python.
 
 ---
 
-##Diretrizes
+## Diretrizes
 
-###1. Escopo do trabalho
+### 1. Escopo do trabalho
 
 -**Tema livre**
 -**Requisitos tecnicos**: 
