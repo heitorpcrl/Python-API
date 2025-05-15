@@ -43,5 +43,5 @@ Desenvolver uma API pura (apenas no terminal) usando Python.
 
 # Como rodar o projeto
 
-- Entre no src do codigo: cd .\Python-API\src
-- Na pasta source execute o arquivo main: python main.py
+- Entre no src do codigo: ´cd .\Python-API\src´
+- Na pasta source execute o arquivo main: ´python main.py´
