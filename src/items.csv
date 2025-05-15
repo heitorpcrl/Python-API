@@ -1,11 +1,16 @@
 nome,preco,quantidade
 Poção de Vida,10,2
+Poção de Vida Grande,15,1
 Espada de Ferro,25,2
 Escudo de Madeira,15,2
 Arco Simples,20,1
+Arco Mágico,30,1
 Poção de Mana,12,3
+Poção de Mana Grande,18,1
 Machado de Bronze,30,1
 Elmo de Couro,18,2
 Bastão Mágico,22,1
 Flecha,2,10
+Flecha Magica,4,6
 Capa Invisível,50,1
+Mapa,15,1

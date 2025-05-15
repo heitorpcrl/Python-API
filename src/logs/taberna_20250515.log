@@ -1,0 +1,44 @@
+
+2025-05-15 18:06:55,860 - INFO - Esta é uma mensagem de informação
+2025-05-15 18:06:55,861 - WARNING - Esta é uma mensagem de aviso
+2025-05-15 18:06:55,861 - ERROR - Esta é uma mensagem de erro
+2025-05-15 18:06:55,861 - CRITICAL - Esta é uma mensagem crítica
+2025-05-15 18:06:55,861 - INFO - Item criado: Poção de Vida
+2025-05-15 18:06:55,861 - INFO - Item criado: Poção de Vida Grande
+2025-05-15 18:06:55,861 - INFO - Item criado: Espada de Ferro
+2025-05-15 18:06:55,861 - INFO - Item criado: Escudo de Madeira
+2025-05-15 18:06:55,861 - INFO - Item criado: Arco Simples
+2025-05-15 18:06:55,861 - INFO - Item criado: Arco Mágico
+2025-05-15 18:06:55,861 - INFO - Item criado: Poção de Mana
+2025-05-15 18:06:55,861 - INFO - Item criado: Poção de Mana Grande
+2025-05-15 18:06:55,861 - INFO - Item criado: Machado de Bronze
+2025-05-15 18:06:55,861 - INFO - Item criado: Elmo de Couro
+2025-05-15 18:06:55,861 - INFO - Item criado: Bastão Mágico
+2025-05-15 18:06:55,861 - INFO - Item criado: Flecha
+2025-05-15 18:06:55,861 - INFO - Item criado: Flecha Magica
+2025-05-15 18:06:55,861 - INFO - Item criado: Capa Invisível
+2025-05-15 18:06:55,861 - INFO - Item criado: Mapa
+2025-05-15 18:06:55,861 - INFO - Item criado: Alma de Dragão
+2025-05-15 18:06:55,861 - INFO - Carregados 16 itens do arquivo CSV
+2025-05-15 18:06:55,863 - INFO - Loja inicializada
+2025-05-15 18:06:55,863 - INFO - Inventário criado
+2025-05-15 18:06:55,863 - INFO - Sistema iniciado
+2025-05-15 18:07:53,575 - WARNING - Opção inválida selecionada: 6
+2025-05-15 18:08:09,133 - WARNING - Tentativa de acesso administrativo com senha incorreta
+2025-05-15 18:08:09,133 - WARNING - Acesso administrativo negado
+2025-05-15 18:08:16,804 - INFO - Lista de itens exibida
+2025-05-15 18:08:33,670 - INFO - Lista de itens exibida
+2025-05-15 18:08:49,721 - WARNING - Tentativa de compra com índice inválido: 99
+2025-05-15 18:08:57,371 - INFO - Lista de itens exibida
+2025-05-15 18:08:59,325 - INFO - Item criado: Alma de Dragão
+2025-05-15 18:08:59,325 - INFO - Item adicionado ao inventário: Alma de Dragão
+2025-05-15 18:08:59,326 - INFO - Itens salvos no arquivo CSV
+2025-05-15 18:08:59,326 - INFO - Item comprado: Alma de Dragão
+2025-05-15 18:09:54,798 - INFO - Inventário exibido. Total gasto: 100 ouro
+2025-05-15 18:10:02,108 - INFO - Lista de itens exibida
+2025-05-15 18:10:04,118 - INFO - Itens salvos no arquivo CSV
+2025-05-15 18:10:04,119 - INFO - Item removido: Alma de Dragão
+2025-05-15 18:10:12,836 - INFO - Lista de itens exibida
+2025-05-15 18:10:15,012 - WARNING - Tentativa de deletar item com índice inválido: 15
+2025-05-15 18:10:28,095 - INFO - Inventário exibido. Total gasto: 100 ouro
+2025-05-15 18:10:36,929 - INFO - Sistema encerrado
