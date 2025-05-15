@@ -1,5 +1,8 @@
 # Python-API
 
+![image](https://github.com/user-attachments/assets/7fa69a24-e560-4a46-b7bc-354af65819f8)
+
+
 ## Trabalho pratico 2 - P2 - Desenvolvimento de uma API pura em Python.
 
 **Disciplina:** POO
